@@ -14,12 +14,10 @@ Feel free to explore the selected pinned repositories below or browse through al
   - Operating systems & shells: `Windows`, `Linux`, `Bash`   
   - Utilities: `WinSCP`, `PuTTY`, `draw.io`
 
-### ⚙️ GitHub Stats
+### 🏆 GitHub Achievements
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akoutsop1909&hide=Jupyter%20Notebook,php,asp.net&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akoutsop1909&card_width=490&card_height=180)](https://git.io/streak-stats)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akoutsop1909&rank=-?)
-
-👉 Source repositories for graph above by [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and [ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akoutsop1909&rank=-?)\
+👉 Source repositories for graphs above by [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and [ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 akoutsop1909/akoutsop1909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
