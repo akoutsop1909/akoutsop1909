@@ -15,8 +15,8 @@ Feel free to explore the selected pinned repositories below or browse through al
   - Utilities: `WinSCP`, `PuTTY`, `draw.io`
 
 ### 🏆 GitHub Achievements
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akoutsop1909&hide=Jupyter%20Notebook,php,asp.net&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=akoutsop1909)](https://github.com/ryo-ma/github-profile-trophy)\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akoutsop1909&hide=Jupyter%20Notebook,php,asp.net&layout=compact)\
+![My Trophies](https://github-profile-trophy.vercel.app/?username=akoutsop1909&theme=flat&row=1&column=5)\
 👉 Source repositories for graphs above by [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and [ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
