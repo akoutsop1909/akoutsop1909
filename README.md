@@ -1,5 +1,5 @@
 ### 👋 Welcome
-Welcome to my GitHub profile! Here you'll find academic work and research I completed during my BSc and MSc studies in Informatics Engineering, along with personal projects I've developed in my free time. My focus areas include 🖥️ **software & web development**, 📊 **data science**, and 🤖 **AI/ML engineering**. 
+Welcome to my GitHub profile! Here you'll find academic work and research I completed during my BSc and MSc studies in Informatics Engineering, along with personal projects I've built in my free time. My focus areas include 🖥️ **software & web development**, 📊 **data science**, and 🧠 **AI/ML engineering**. 
 
 Feel free to explore the selected pinned repositories below or browse through all of them via the `Repositories` tab above (BSc and MSc thesis code also available).
 
@@ -16,7 +16,7 @@ Feel free to explore the selected pinned repositories below or browse through al
 
 ### 🏆 GitHub Achievements
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akoutsop1909&hide=Jupyter%20Notebook,php,asp.net&layout=compact)\
-![My Trophies](https://github-profile-trophy.vercel.app/?username=akoutsop1909&theme=flat&row=1&column=5)\
+![My Trophies](https://github-profile-trophy.vercel.app/?username=akoutsop1909&rank=-?)\
 👉 Source repositories for graphs above by [anuraghazra](https://github.com/anuraghazra/github-readme-stats) and [ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
