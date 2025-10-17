@@ -1,7 +1,7 @@
 ### 👋 Welcome
 Welcome to my GitHub profile! Here you'll find academic work and research I completed during my BSc and MSc studies in Informatics Engineering, along with personal projects I've built in my free time. My focus areas include 🖥️ **software & web development**, 📊 **data science**, and 🧠 **AI/ML engineering**. 
 
-Feel free to explore the selected pinned repositories below or browse through all of them via the `Repositories` tab above (BSc and MSc thesis code also available).
+Feel free to explore the selected pinned repositories below or browse through all of them via the **Repositories** tab above (BSc and MSc thesis code also available).
 
 ### 🛠️ Tech Stack
 - **Languages:** `Python`, `Java`, `R`, `SQL`, `HTML`, `CSS`, `JavaScript`
